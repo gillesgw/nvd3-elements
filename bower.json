@@ -1,6 +1,6 @@
 {
   "name": "nvd3-elements",
-  "version": "0.21.0",
+  "version": "0.22.1",
   "homepage": "https://github.com/saeidzebardast/nvd3-elements",
   "authors": [
     "Saeid Zebardast <saeid.zebardast@gmail.com>"
@@ -27,7 +27,7 @@
   ],
   "dependencies": {
     "nvd3": "~1.8.1",
-    "polymer": "^1.7.0",
+    "polymer": "^2.0.0",
     "iron-resizable-behavior": "PolymerElements/iron-resizable-behavior#^1.0.3"
   },
   "devDependencies": {
